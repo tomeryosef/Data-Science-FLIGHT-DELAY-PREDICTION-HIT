@@ -1,0 +1,74 @@
+1680369278642	geckodriver	INFO	Listening on 127.0.0.1:64871
+1680369281683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefox.exe" "--marionette" "--remote-debugging-port" "64872" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Tomer\\AppData\\Local\\Temp\\rust_mozprofileq6rGpO"
+1680369282338	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680369282356	Marionette	INFO	Listening on port 64886
+Read port: 64886
+WebDriver BiDi listening on ws://127.0.0.1:64872
+1680369282700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Tomer\\AppData\\Local\\Temp\\rust_mozprofileq6rGpO\\search.json.mozlz4", (void 0)))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:64872/devtools/browser/bf9e3917-ccfc-4839-8c85-3d3260e6616d
+console.error: (new SyntaxError("The URI is malformed.", (void 0), 133))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 3020 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://services-settings/RemoteSetting1680369296184	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Nightly\\firefoJavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Jav1680369297094	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1680369297111	Marionette	INFO	Listening on port 53423
+Read port: 53423
+WebDriver BiDi listening on ws://127.0.0.1:53395
+1680369297520	RemoteAgent	WARN	TLS certificate errors wiconsole.error: (new Error("Polling for changes failed: The URI is malformed..", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript warning: https://www.flightradar24.com/static/bundle/main.79937c98cd4780ece9d2.bundle.js line 2 > eval, line 7400: Script terminated by timeout at:
+createVisibilityHandler/<@https://www.flightradar24.com/static/bundle/main.79937c98cd4780ece9d2.bundle.js line 2 > eval:7400:5
+
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 4664, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1680369569856	Marionette	INFO	Stopped listening on port 64886
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+=AkAA0SCcAtgAAKADDgAAQKAAAAAEABUwDADB-08AAgBBCAhikACYpAQYAADg-gEAAAAADAAAKICDBRSAAAAAAIgfADgvABhMWAAAAAAAAAAAgpUgGFwgQUAACAAAAAAAAICqZPJ6BSAAADA/d=1/ed=1/dg=2/rs=ACT90oGDof2LbTMs8MhKoUjDedQWzMfWHQ/m=attn,cdos,cr,dpf,gwc,hsm,jsa,d,csi:412:347
+b@https://www.google.com/xjs/_/js/k=xjs.s.iw.03ScwK7Uj2I.O/am=AkAA0SCcAtgAAKADDgAAQKAAAAAEABUwDADB-08AAgBBCAhikACYpAQYAADg-gEAAAAADAAAKICDBRSAAAAAAIgfADgvABhMWAAAAAAAAAAAgpUgGFwgQUAACAAAAAAAAICqZPJ6BSAAADA/d=1/ed=1/dg=2/rs=ACT90oGDof2LbTMs8MhKoUjDedQWzMfWHQ/m=attn,cdos,cr,dpf,gwc,hsm,jsa,d,csi:408:49
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 1942 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ, line 354: Script terminated by timeout at:
+aa.Ug@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:354:42
+get@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:352:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:352:87
+aa.tj/c/<@https://www.googletagmanager.com/gtag/js?id=G-WCZ03SZFCQ:352:412
+
+JavaScript warning: https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114, line 1: Script terminated by timeout at:
+511/m/<@https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114:1:11047
+n@https://static.cloudflareinsights.com/beacon.min.js/vb26e4fa9e5134444860be286fd8771851679335129114:1:10908
+
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 7712, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1680369568993	Marionette	INFO	Stopped listening on port 53423
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

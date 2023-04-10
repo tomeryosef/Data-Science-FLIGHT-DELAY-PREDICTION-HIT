@@ -1,0 +1,101 @@
+Time,From,Airline,Flight,Gate,Status,Details
+2:40 PM,AF962,Paris (CDG),Air France,A332 (F-GZCA),,Landed 2:39 PM
+2:40 PM,M4650,Milan (MXP),Poste Air Cargo,B734 (EI-GUB),,Scheduled
+2:50 PM,BA165,London (LHR),British Airways,B789 (G-ZBKG),,Landed 2:43 PM
+2:55 PM,LY322,Marseille (MRS),El Al,B738 (4X-EKI),,Estimated 2:56 PM
+3:00 PM,LY362,Vienna (VIE),El Al,B738 (4X-EKL),,Landed 2:50 PM
+3:00 PM,LY972,Dubai (DXB),El Al,B788 (4X-ERB),,Estimated 3:11 PM
+3:01 PM,LY5402,Warsaw (WAW),Smartwings (Prague ❤ You Livery),B738 (OK-TVF),,Estimated 3:02 PM
+3:05 PM,LY354,Munich (MUC),El Al,738,,Canceled
+3:10 PM,PC783,Istanbul (SAW),Pegasus,A21N (TC-RBU),,Delayed 3:33 PM
+3:15 PM,SN3289,Brussels (BRU),Brussels Airlines (Tintin comics Livery),A320 (OO-SNB),,Estimated 3:20 PM
+3:20 PM,LY386,Rome (FCO),El Al,B739 (4X-EHB),,Estimated 3:21 PM
+3:25 PM,FR1111,Pafos (PFO),Ryanair,B738 (EI-EVT),,Estimated 3:20 PM
+3:25 PM,LH686,Frankfurt (FRA),Lufthansa,A321 (D-AISI),,Delayed 4:17 PM
+3:35 PM,LY2522,Prague (PRG),Tus Airways,A320 (5B-DDK),,Estimated 3:37 PM
+3:40 PM,VS457,London (LHR),Virgin Atlantic,B789 (G-VBEL),,Estimated 2:59 PM
+3:45 PM,6H602,Istanbul (IST),Israir Airlines (Israel-UAE Agreement Livery),A320 (4X-ABF),,Delayed 4:15 PM
+3:50 PM,FR8695,Naples (NAP),Ryanair,B738 (9H-QBF),,Estimated 3:41 PM
+3:52 PM,LY5034,Rhodes (RHO),Sun d'Or International Airlines,B738 (4X-EKR),,Estimated 3:54 PM
+3:55 PM,LY394,Barcelona (BCN),El Al,B738 (4X-EKH),,Estimated 4:02 PM
+4:00 PM,LY358,Frankfurt (FRA),El Al,B739 (4X-EHC),,Delayed 4:39 PM
+4:00 PM,LY2372,Berlin (BER),El Al,B738 (4X-EKJ),,Estimated 3:48 PM
+4:00 PM,6H662,Dubai (DXB),Israir Airlines (Future Peace Partnership Livery),A320 (4X-ABG),,Delayed 5:36 PM
+4:05 PM,LH680,Munich (MUC),Lufthansa,A321 (D-AISV),,Estimated 4:02 PM
+4:05 PM,LY342,Geneva (GVA),El Al,B738 (4X-EKS),,Estimated 4:05 PM
+4:10 PM,CY110,Larnaca (LCA),Cyprus Airways,A320 (5B-DDR),,Scheduled
+4:10 PM,TK786,Istanbul (IST),Turkish Airlines (Star Alliance Livery),A321 (TC-JSG),,Scheduled
+4:17 PM,SMF872,Liege (LGG),San Marino Executive Aviation,A306 (T7-ASK),,Estimated 4:11 PM
+4:20 PM,UA90,New York (EWR),United Airlines,B78X (N14001),,Delayed 6:10 PM
+4:29 PM,,Pisa (PSA),NetJets Europe,CL35 (CS-CHJ),,Scheduled
+4:30 PM,LY872,Liege (LGG),El Al,74F,,Scheduled
+4:35 PM,LY312,London (LTN),El Al,B739 (4X-EHE),,Estimated 4:24 PM
+4:35 PM,LY320,Paris (CDG),El Al,B739 (4X-EHA),,Delayed 4:54 PM
+4:40 PM,U8217,Thessaloniki (SKG),Tus Airways,A320 (5B-DDP),,Estimated 4:50 PM
+4:46 PM,IZ772,Grenoble (GNB),Arkia Israeli Airlines,A21N (4X-AGK),,Delayed 5:21 PM
+4:50 PM,FR7161,Vienna (VIE),Ryanair,B738 (SP-RSS),,Estimated 4:43 PM
+4:51 PM,,Pisa (PSA),NetJets Europe,CL35 (CS-CHJ),,Scheduled
+4:55 PM,LY338,Amsterdam (AMS),El Al,B739 (4X-EHD),,Delayed 5:30 PM
+4:55 PM,LY382,Milan (MXP),El Al,B738 (4X-EKC),,Estimated 4:45 PM
+5:00 PM,AA146,New York (JFK),American Airlines,B772 (N788AN),,Estimated 5:00 PM
+5:00 PM,LY396,Madrid (MAD),El Al,B738 (4X-EKB),,Estimated 5:11 PM
+5:00 PM,6H342,Rome (FCO),Czech Airlines (100 Years Livery),A320 (OK-HEU),,Scheduled
+5:00 PM,6H726,Budapest (BUD),Trade Air,A320 (9A-BTI),,Scheduled
+5:01 PM,EAF746,Athens (ATH),Electra Airways,B733 (LZ-EBB),,Scheduled
+5:15 PM,LY26,New York (EWR),El Al (Jerusalem of Gold Livery),B789 (4X-EDM),,Estimated 5:13 PM
+5:19 PM,IZ776,Grenoble (GNB),Smartwings,B738 (OK-TSO),,Scheduled
+5:20 PM,LY8,New York (JFK),El Al,B789 (4X-EDI),,Estimated 5:04 PM
+5:20 PM,UA140,Chicago (ORD),United Airlines,B788 (N26902),,Estimated 4:32 PM
+5:20 PM,LX252,Zurich (ZRH),Swiss,A21N (HB-JPA),,Scheduled
+5:20 PM,LY348,Zurich (ZRH),El Al,B738 (4X-EKO),,Estimated 5:28 PM
+5:25 PM,IB3980,Madrid (MAD),Iberia Express,A21N (EC-NIF),,Estimated 5:17 PM
+5:35 PM,DL234,New York (JFK),Delta Air Lines,A339 (N421DX),,Delayed 6:23 PM
+5:35 PM,EK931,Dubai (DXB),Emirates,B77W (A6-ENQ),,Estimated 5:43 PM
+5:40 PM,OS861,Vienna (VIE),Austrian Airlines,A320 (OE-LBK),,Estimated 5:24 PM
+5:40 PM,VJT582,Farnborough (FAB),VistaJet Malta,CL60 (9H-VFC),,Estimated 5:49 PM
+5:51 PM,,Farnborough (FAB),Air Hamburg,E35L (D-AIRG),,Delayed 6:50 PM
+6:05 PM,FR1805,Vilnius (VNO),Ryanair,B738 (SP-RSC),,Scheduled
+6:05 PM,VJT794,Miami (MIA),VistaJet Malta,GL7T (9H-VIR),,Estimated 5:49 PM
+6:06 PM,VJT719,London (LTN),VistaJet Malta,GLEX (9H-VJA),,Estimated 6:06 PM
+6:15 PM,LY382,Milan (MXP),El Al,B738 (4X-EKC),,Scheduled
+6:15 PM,BZ251,Barcelona (BCN),Bluebird Airways,B738 (9H-SHO),,Scheduled
+6:20 PM,RJ344,Amman (AMM),Royal Jordanian,E95,,Scheduled
+6:20 PM,5F447,Chisinau (KIV),FlyOne,320,,Scheduled
+6:25 PM,IZ1036,Istanbul (IST),Arkia Israeli Airlines,E95,,Scheduled
+6:25 PM,U24657,Paris (CDG),easyJet,A320 (OE-IVC),,Estimated 6:02 PM
+6:50 PM,A3924,Athens (ATH),Aegean Airlines,A321 (SX-DVZ),,Scheduled
+6:50 PM,LO155,Warsaw (WAW),LOT,B38M (SP-LVM),,Scheduled
+6:58 PM,,Paris (LBG),Air X Charter,CRJ2 (9H-AMY),,Scheduled
+7:05 PM,IZ822,Eilat (ETM),Arkia Israeli Airlines,E95,,Scheduled
+7:10 PM,TK836,Istanbul (IST),Turkish Airlines,B739 (TC-JYM),,Scheduled
+7:15 PM,W62811,Vienna (VIE),Wizz Air,A21N (HA-LVD),,Scheduled
+7:20 PM,IZ1162,Larnaca (LCA),Electra Airways,A320 (LZ-EAE),,Scheduled
+7:35 PM,PC781,Istanbul (SAW),Pegasus,A21N (TC-RBC),,Scheduled
+7:35 PM,U22583,London (LTN),easyJet,A20N (G-UZLK),,Scheduled
+7:35 PM,6H46,Eilat (ETM),Israir Airlines,320,,Scheduled
+7:36 PM,LY5204,Batumi (BUS),Smartwings,B738 (OK-TST),,Scheduled
+8:00 PM,UA954,San Francisco (SFO),United Airlines,B77W (N2534U),,Delayed 8:33 PM
+8:00 PM,W62327,Budapest (BUD),Wizz Air,A21N (HA-LZQ),,Scheduled
+8:05 PM,LY324,Paris (CDG),El Al,B789 (4X-EDH),,Scheduled
+8:05 PM,W65097,Krakow (KRK),Wizz Air,A21N (HA-LVH),,Scheduled
+8:15 PM,HV5803,Amsterdam (AMS),Transavia,B738 (PH-HSM),,Scheduled
+8:25 PM,AI139,Delhi (DEL),Air India,B788 (VT-ANC),,Estimated 8:31 PM
+8:25 PM,LY54,Johannesburg (JNB),El Al,B772 (4X-ECD),,Delayed 9:22 PM
+8:25 PM,LY612,Moscow (DME),El Al,739,,Scheduled
+8:25 PM,TK788,Istanbul (IST),Turkish Airlines,A359 (TC-LGA),,Scheduled
+8:30 PM,W65455,Venice (VCE),Wizz Air,A21N (9H-WDI),,Scheduled
+8:44 PM,IZ774,Grenoble (GNB),Enter Air,A320 (LZ-EAC),,Scheduled
+8:45 PM,5C1852,Hong Kong (HKG),Challenge Airlines,B744 (OE-LRG),,Estimated 8:46 PM
+8:55 PM,LY5134,Larnaca (LCA),Sun d'Or International Airlines,B738 (4X-EKR),,Scheduled
+9:00 PM,LY84,Bangkok (BKK),El Al,B789 (4X-EDE),,Delayed 9:22 PM
+9:00 PM,5C852,Hong Kong (HKG),Challenge Airlines,B744 (OE-LRG),,Scheduled
+9:05 PM,J2321,Baku (GYD),Azerbaijan Airlines,A320 (4K-AZ83),,Scheduled
+9:05 PM,TK7710,Istanbul (SAW),AnadoluJet,B38M (TC-LAI),,Scheduled
+9:05 PM,W94451,London (LTN),Wizz Air,A21N (G-WUKT),,Scheduled
+9:05 PM,W95803,London (LGW),Wizz Air,A21N (G-WUKR),,Scheduled
+9:05 PM,6H666,Dubai (DXB),Israir Airlines,320,,Scheduled
+9:10 PM,ET414,Addis Ababa (ADD),Ethiopian Airlines,7M8,,Scheduled
+9:10 PM,6H562,Athens (ATH),Smartwings,B738 (OK-TSF),,Scheduled
+9:20 PM,LY106,Los Angeles (LAX),El Al,B789 (4X-EDB),,Delayed 10:26 PM
+9:20 PM,BZ431,Bucharest (OTP),European Air Charter,A320 (LZ-LAB),,Scheduled
+9:25 PM,H4237,Bucharest (OTP),HiSky Europe,320,,Scheduled

@@ -1,0 +1,11 @@
+AirportName,AirportCode,FlightsPerWeek,AirportTagName
+Istanbul,IST,96 flights/week,IST
+Dubai,DXB,68 flights/week,DXB
+Athens,ATH,62 flights/week,ATH
+Rome,FCO,53 flights/week,FCO
+Larnaca,LCA,51 flights/week,LCA
+Istanbul,SAW,50 flights/week,SAW
+Paris,CDG,48 flights/week,CDG
+Antalya,AYT,42 flights/week,AYT
+Vienna,VIE,40 flights/week,VIE
+London,LHR,37 flights/week,LHR
