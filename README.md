@@ -1,5 +1,10 @@
-# Data-Science FLIGHT-DELAY PREDICTION HIT
-## By Ofek Ben Hamo and Tomer Yosef 
+
+
+<h1 align="center">Data-Science FLIGHT-DELAY PREDICTION HIT</h1>
+<h1 align="center">By Ofek Ben Hamo and Tomer Yosef</h1>
+
+<h3 align="center">Our project focuses on predicting flight delays using machine learning techniques. We employ feature engineering and advanced regression algorithms to enhance accuracy. The dataset includes flight info, weather conditions, and other relevant factors. Our model achieves 94% accuracy.</h3>
+
 
 ![1](https://raw.githubusercontent.com/tomeryosef/Data-Science-FLIGHT-DELAY-PREDICTION-HIT/main/Flight%20Delay%20Prediction%20-%20Tomer%20%26%20Ofek/Flight%20Delay%20Prediction%20-%20Tomer%20%26%20Ofek-01.png)
 
